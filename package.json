@@ -2,6 +2,8 @@
   "name": "notes-app-react",
   "version": "0.1.0",
   "private": true,
+  "author": "ardi_saputra <ardisaputraa12@gmail.com>",
+  "license": "MIT",
   "dependencies": {
     "prop-types": "^15.8.1",
     "react": "^18.2.0",
